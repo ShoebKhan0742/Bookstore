@@ -1,0 +1,90 @@
+[
+    {
+        "id": 1,
+        "name": "Story book",
+        "title": "best seller",
+        "price": 0,
+        "categary": "free",
+        "image": "https://img.freepik.com/free-photo/education-day-scene-fantasy-style-aesthetic_23-2151040272.jpg?ga=GA1.1.617138272.1721718821&semt=ais_user"
+    },
+    {
+        "id": 2,
+        "name": "sport book",
+        "title": "At best price",
+        "price": 0,
+        "categary": "free",
+        "image": "https://img.freepik.com/free-photo/colorful-sport-composition-with-gym-elements_23-2148001313.jpg?ga=GA1.1.617138272.1721718821&semt=ais_user"
+    },
+    {
+        "id": 3,
+        "name": "History book",
+        "title": "Novel",
+        "price": 0,
+        "categary": "free",
+        "image": "https://img.freepik.com/free-photo/portrait-three-wise-men_23-2150972930.jpg?ga=GA1.1.617138272.1721718821&semt=ais_user"
+    },
+    {
+        "id": 4,
+        "name": "Comic book",
+        "title": "best seller",
+        "price": 0,
+        "categary": "free",
+        "image": "https://img.freepik.com/free-vector/abbreviation-facial-expression-retro-comic-banner-design_1308-107750.jpg?ga=GA1.1.617138272.1721718821&semt=ais_user"
+    },
+    {
+        "id": 5,
+        "name": "Engineering book",
+        "title": "best seller",
+        "price": 199,
+        "categary": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722082786~exp=1722086386~hmac=9f2a70925dfe322efc64a9b8adfeb53b1627dd768896cb674d6be58c54bf274c&w=740"
+    },
+    {
+        "id": 6,
+        "name": "Novel book",
+        "title": "best seller",
+        "price": 599,
+        "categary": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722082786~exp=1722086386~hmac=9f2a70925dfe322efc64a9b8adfeb53b1627dd768896cb674d6be58c54bf274c&w=740"
+    },
+    {
+        "id": 7,
+        "name": "Self help book",
+        "title": "best seller",
+        "price": 1299,
+        "categary": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722082786~exp=1722086386~hmac=9f2a70925dfe322efc64a9b8adfeb53b1627dd768896cb674d6be58c54bf274c&w=740"
+    },
+    {
+        "id": 8,
+        "name": "Health book",
+        "title": "best seller",
+        "price": 299,
+        "categary": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722082786~exp=1722086386~hmac=9f2a70925dfe322efc64a9b8adfeb53b1627dd768896cb674d6be58c54bf274c&w=740"
+    },
+    {
+        "id": 9,
+        "name": "Gyan Book",
+        "title": "best seller",
+        "price": 99,
+        "categary": "paid",
+        "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1722082786~exp=1722086386~hmac=9f2a70925dfe322efc64a9b8adfeb53b1627dd768896cb674d6be58c54bf274c&w=740"
+    },
+    {
+        "id": 10,
+        "name": "Story book",
+        "title": "best seller",
+        "price": 0,
+        "categary": "free",
+        "image": "https://img.freepik.com/premium-photo/book-with-house-cover-picture-house-page_1209326-99210.jpg?ga=GA1.1.617138272.1721718821&semt=ais_user"
+    },
+    {
+        "id": 11,
+        "name": "Story book",
+        "title": "best seller",
+        "price": 0,
+        "categary": "free",
+        "image": "https://img.freepik.com/free-photo/magic-fairy-tale-book-with-galaxy-landscape_23-2150132993.jpg?ga=GA1.1.617138272.1721718821&semt=ais_user"
+    }
+]
